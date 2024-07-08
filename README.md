@@ -1,8 +1,8 @@
 # Analysis_On_US_Pollution_Data
 
-**Air pollution is one of the outstanding environmental concerns in the world today, affecting both developed and developing regions. In 2016 alone, it accounted for 4.2 million deaths globally and over 59,000 in the U.S, because of its association with stroke, lung cancer, ischemic heart disease, acute lower respiratory disease and chronic obstructive pulmonary disease.
+Air pollution is one of the outstanding environmental concerns in the world today, affecting both developed and developing regions. In 2016 alone, it accounted for 4.2 million deaths globally and over 59,000 in the U.S, because of its association with stroke, lung cancer, ischemic heart disease, acute lower respiratory disease and chronic obstructive pulmonary disease.
 
-In this project, we will perform data analysis on a dataset documented by the U.S. EPA on pollution caused by four major pollutants. The four pollutants nitrogen dioxide (NO2), sulphur dioxide (SO2), carbon monoxide (CO), and ozone(O3).** 
+In this project, we will perform data analysis on a dataset documented by the U.S. EPA on pollution caused by four major pollutants. The four pollutants nitrogen dioxide (NO2), sulphur dioxide (SO2), carbon monoxide (CO), and ozone(O3).
 
 **Insights:**
 
