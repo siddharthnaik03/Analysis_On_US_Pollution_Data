@@ -14,6 +14,8 @@ In this project, we will perform data analysis on a dataset documented by the U.
 
 •	State with Rate of all 4 Pollutants: We utilized a map to display the distribution of pollutants across different states. Darker colours indicate a higher concentration of pollutants, while lighter colours signify lower levels of pollutants. According to the chart, Hawaii ranks highest for having the least number of pollutants with a average rate of 36.37, whereas Colorado ranks highest for having the highest pollutant levels among states with 79.81 rate.
 
+•	Four KPI’s Are used based on Average Mean namely Co2 Mean,O3 Mean,No2 Mean,So2 Mean.
+
 ![Dashboard_us](https://github.com/siddharthnaik03/Analysis_On_US_Pollution_Data-2019-to-2023--SQL-Tableau-/assets/173901732/e2194670-5a9f-49be-8e40-f3edf732ed8e)
 
 
